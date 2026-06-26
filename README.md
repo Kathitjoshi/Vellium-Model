@@ -1,6 +1,6 @@
 # Vellium Local Language Model
 
-This repository houses the fine-tuned local language model variant for Vellium, optimized specifically for local execution via runtimes such as Ollama and Open WebUI. The model functions as a specialized offline technical assistant capable of addressing queries regarding the architecture, endpoint structures, and implementation details of the parent system.
+This repository houses the fine-tuned local language model variant for Vellium, optimized specifically for local execution via runtimes such as Ollama and Open WebUI. The model functions as a specialized offline technical assistant capable of addressing queries regarding the architecture, endpoint structures, and implementation details of the parent system. View the Jupyter notebook [here](https://colab.research.google.com/github/Kathitjoshi/Vellium-Model/blob/main/Kathit_FineTuning1_Vellium.ipynb)
 
 ---
 
