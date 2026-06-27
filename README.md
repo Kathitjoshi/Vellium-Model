@@ -4,6 +4,21 @@ This repository houses the fine-tuned local language model variant for Vellium, 
 
 ---
 
+<img width="2784" height="1692" alt="Screenshot 2026-06-27 155346" src="https://github.com/user-attachments/assets/c9c565d7-05b4-42f2-9b6b-3b2057c8472d" />
+
+<img width="2761" height="1412" alt="Screenshot 2026-06-27 160435" src="https://github.com/user-attachments/assets/aefb9131-01e4-4ba3-92b6-c96ab3191d7e" />
+
+<img width="2434" height="1394" alt="Screenshot 2026-06-27 160458" src="https://github.com/user-attachments/assets/db7e0021-ba6d-4721-aab7-1b84a1d44bcd" />
+
+<img width="1121" height="446" alt="Screenshot 2026-06-27 161535" src="https://github.com/user-attachments/assets/aac69f15-8248-4272-8446-0173c005daaa" />
+
+<img width="1606" height="892" alt="Screenshot 2026-06-27 161943" src="https://github.com/user-attachments/assets/9594f822-e255-432b-bcce-fdc813f28233" />
+
+<img width="1648" height="714" alt="Screenshot 2026-06-27 162240" src="https://github.com/user-attachments/assets/4e8e68ef-f4d6-4db5-a2d3-321367c30efb" />
+
+
+
+
 ## Project Relationships
 
 | Resource | Link |
