@@ -162,6 +162,7 @@ Re-run the execution command inside your terminal:
 
 ```bash
 ollama run hf.co/Kathit/vellium-llama3-8b-gguf:Q4_K_M
+ollama run vellium
 ```
 
 Ollama will detect the local manifest omission, automatically stream the newly updated `q4_k_m` GGUF binary layer from your Hugging Face profile to 100%, and open the live interactive prompt (`>>>`) immediately.
