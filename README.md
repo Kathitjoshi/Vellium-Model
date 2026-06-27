@@ -97,8 +97,8 @@ ollama run vellium
 To make the model available to external users under a public namespace, execute the copy and push sequence within your local terminal:
 
 ```bash
-ollama cp vellium kathitjoshi/vellium:latest
-ollama push kathitjoshi/vellium:latest
+ollama cp vellium <hf-username>/vellium:latest
+ollama push <hf-username>/vellium:latest
 ```
 
 ---
